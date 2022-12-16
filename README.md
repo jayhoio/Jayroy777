@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jay
 - 👀 I’m interested in Full Stack Development with Flutter Nodejs MongoDB Express AWS
 - 🌱 I’m currently learning Web Sockets
-- 💞️ I’m looking to collaborate on IOT(Internet Of Things)
 - 📫 How to reach me jpr72075@gmail.com
 
 <!---
